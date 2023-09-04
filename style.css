@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: gray;
+    color: whitesmoke;
+}
+.head-div{
+    background-color: dimgray;
+    color: white;
+}
+.head-div p{
+    color: rgb(112, 41, 41);
+    letter-spacing: 2px;
+    font-weight: 100;
+    font-size: 20px;
+}
+ .main-div button{
+    font-family: 'Times New Roman', Times, serif;    
+    margin: 10px;
+    width: 75px;
+    font-weight: bolder;
+}
+.copy-right-footer{
+    background-color: white;
+    color: black;
+    font-size: larger;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    text-shadow: 5px 5px 5px;
+    text-align: center;
+
+
+}
